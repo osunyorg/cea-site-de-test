@@ -2,6 +2,11 @@
 
 baseURL: https://site-de-test.cea.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: adaf4a12-0b6e-4a3f-a39b-dd3fc77237ee
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
